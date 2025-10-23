@@ -12,19 +12,19 @@ A full-stack **Retrieval-Augmented Generation (RAG)** system that enables intell
 ## 🎯 Features
 
 ### Core Functionality
-- 📄 **Multi-format Document Support** - Upload PDF, TXT, and DOCX files
-- 🔍 **Semantic Search** - Vector embeddings for intelligent retrieval
-- 🤖 **AI-Powered Answers** - LLM synthesis using Groq/OpenAI APIs
-- 📊 **Confidence Scoring** - Real-time answer reliability metrics
-- 📚 **Source Attribution** - Track which documents informed each answer
-- 🗂️ **Document Management** - Add, remove, and manage your knowledge base
+-  **Multi-format Document Support** - Upload PDF, TXT, and DOCX files
+-  **Semantic Search** - Vector embeddings for intelligent retrieval
+-  **AI-Powered Answers** - LLM synthesis using Groq/OpenAI APIs
+  **Confidence Scoring** - Real-time answer reliability metrics
+-  **Source Attribution** - Track which documents informed each answer
+-  **Document Management** - Add, remove, and manage your knowledge base
 
 ### Technical Features
-- ⚡ **Fast Embeddings** - sentence-transformers for efficient vectorization
-- 🧩 **Smart Chunking** - Overlapping text windows for better context
-- 🔄 **Fallback Mechanism** - Works even without API keys
-- 💾 **Session Persistence** - Maintains document index during runtime
-- 🎨 **Modern UI** - Beautiful, responsive React interface
+-  **Fast Embeddings** - sentence-transformers for efficient vectorization
+-  **Smart Chunking** - Overlapping text windows for better context
+-  **Fallback Mechanism** - Works even without API keys
+-  **Session Persistence** - Maintains document index during runtime
+-  **Modern UI** - Beautiful, responsive React interface
 
 ---
 
